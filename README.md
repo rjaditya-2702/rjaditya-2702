@@ -1,16 +1,16 @@
-# Hi there, I'm Aditya Ratan Jannali 👋
+# Hi there, I'm Aditya Ratan Jannali 🕶️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-ratan-j/)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome)](https://rjaditya-2702.github.io/adityaratan/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:jadityaratan@gmail.com)
 
-## 🎓 About Me
+## About Me
 
-I'm an AI Researcher, currently completing my Master's degree at Northeastern University's AI program from Khoury College of Computer Sciences (GPA: 4.0/4.0). My work sits at the intersection of cutting-edge AI research and real-world applications, with a focus on Foundation Generative Models, Theory of Mind in AI, and production-grade machine learning systems.
+I'm an AI Researcher, currently completing my Master's degree at Northeastern University's AI program from Khoury College of Computer Sciences (GPA: 4.0/4.0). My work sits at the intersection of cutting-edge AI research and real-world applications, with a focus on Foundation Generative Models, Model Interpretability, Theory of Mind in AI, and production-grade machine learning systems.
 
 Currently, I'm working with **Dr. Agata Lapedriza Garcia**, **Dr. Natalie Shapira**, and **Dr. David Bau** on testing VLMs' Theory of Mind capacity, while also architecting production RAG systems that serve thousands of users.
 
-## 🔬 Current Research
+## Current Research
 
 - **Vision-Language Models & Theory of Mind**: Developing taxonomy and experimental frameworks for evaluating model cognition
 - **Kolmogorov-Arnold Networks**: Investigating learning and generalization capabilities
@@ -69,6 +69,9 @@ Implemented Q-Learning with multi-agent training in custom gymnasium environment
 ### [LLM vs Human Text Detection](https://github.com/rjaditya-2702/LLM-vs-Human-Text-Detection)
 Fine-tuned ALBERT and DeBERTa-XS transformers achieving >96% accuracy in detecting AI-generated content on DAIGT dataset.
 
+### Find More 
+[https://github.com/rjaditya-2702?tab=repositories](https://github.com/rjaditya-2702?tab=repositories)
+
 ## Education
 
 **Northeastern University** | Master of Science, Artificial Intelligence | GPA: 4.0/4.0  
@@ -90,4 +93,4 @@ Supported students with conceptual questions, assignments, and project guidance.
 
 ---
 
-💡 *Open to collaborations in AI research, particularly in Vision-Language Models, RAG systems, and interpretable AI*
+💡 *Open to collaborations in AI research, particularly in Generative AI Models, Mechanistic interpretability*
