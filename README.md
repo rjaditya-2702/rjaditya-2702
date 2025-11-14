@@ -98,8 +98,10 @@ Fine-tuned ALBERT and DeBERTa-XS transformers achieving >96% accuracy in detecti
 
 ## Teaching & Mentoring
 
-**Teaching Assistant** - CS5100: Foundations of AI (Spring '24 & Fall '24)  
-Supported students with conceptual questions, assignments, and project guidance. Delivered guest lecture on Gradient Descent.
+**Teaching Assistant** - CS5100: Foundations of AI (Spring '24 & Fall '24)** 
+Supported students with conceptual questions, assignments, and project guidance. 
+_(Oooh, I delivered a full lecture on Gradient Descent. It was fun! and I absolutely would do it again!)_
+
 ---
 
 💡 *Open to collaborations in AI research, particularly in Generative AI Models, Mechanistic interpretability*
