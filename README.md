@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an AI Researcher, currently completing my Master's degree at Northeastern University's AI program from Khoury College of Computer Sciences (GPA: 4.0/4.0). My work sits at the intersection of cutting-edge AI research and real-world applications, with a focus on Foundation Generative Models, Model Interpretability, Theory of Mind in AI, and production-grade machine learning systems.
+I'm an AI Researcher, currently completing my Master's degree at Northeastern University's AI program from Khoury College of Computer Sciences (GPA: 4.0/4.0). My work sits at the intersection of contributing new knowledge to AI community and bringing real-world impact, with a focus on Foundation Generative Models, Model Interpretability, Theory of Mind in AI, and production-grade machine learning systems.
 
 Currently, I'm working with **Dr. Agata Lapedriza Garcia**, **Dr. Natalie Shapira**, and **Dr. David Bau** on testing VLMs' Theory of Mind capacity, while also architecting production RAG systems that serve thousands of users.
 
