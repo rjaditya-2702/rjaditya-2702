@@ -104,4 +104,4 @@ _(Oooh, I delivered a full lecture on Gradient Descent. It was fun! and I absolu
 
 ---
 
-💡 *Open to collaborations in AI research, particularly in Generative AI Models, Mechanistic interpretability*
+💡 *Open to collaborations in AI research, Machine Learning, Multi-modal generative AI, and Interpretability*
