@@ -1,8 +1,8 @@
 # Hi there, I'm Aditya Ratan Jannali 🕶️
 
-[LinkedIn](https://www.linkedin.com/in/aditya-ratan-j/)
-[Website](https://rjaditya-2702.github.io/adityaratan/)
-[Email](mailto:jadityaratan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-ratan-j/)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome)](https://rjaditya-2702.github.io/adityaratan/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:jadityaratan@gmail.com)
 
 ## About Me
 
@@ -32,47 +32,43 @@ Currently, I'm working with **Dr. Agata Lapedriza Garcia** (Advisor), and **Dr. 
 ## Technical Skills
 
 ### AI/ML & Deep Learning
-
-Machine Learning
-Deep Learning
-Transformers
-Generative AI
-Reinforcement Learning
-Vision Language Models
-RAG Systems
-LLM Evaluation
-NLP
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=flat&logo=deeplearning.ai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat&logo=openai&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0081CB?style=flat&logo=openai&logoColor=white)
+![Vision Language Models](https://img.shields.io/badge/Vision_Language_Models-FF6F00?style=flat&logo=googlelens&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-412991?style=flat&logo=openai&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-10B981?style=flat&logo=chatbot&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=nlp&logoColor=white)
 
 ### Frameworks & Tools
-
-PyTorch
-TensorFlow
-Hugging Face
-vLLM
-OpenAI Gymnasium
-MLFlow
-DVC
-Docker
-Apache Airflow
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-5C5CFF?style=flat&logo=v&logoColor=white)
+![OpenAI Gymnasium](https://img.shields.io/badge/OpenAI_Gymnasium-412991?style=flat&logo=openai&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ### Data & Infrastructure
-
-FAISS
-OpenSearch
-PostgreSQL
-AWS
-GCP
-ETL
-CI/CD
-GitHub Actions
+![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=flat&logo=meta&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat&logo=databricks&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ### Programming Languages
-
-Python
-Java
-C++
-SQL
-Shell
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnubash&logoColor=white)
 
 ## Publications
 
