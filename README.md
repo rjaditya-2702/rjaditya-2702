@@ -68,6 +68,16 @@ Currently, I'm working with **Dr. Agata Lapedriza Garcia** (Advisor), **Dr. Nata
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnubash&logoColor=white)
 
+## Publications
+
+1. [**Agents of Chaos**](https://arxiv.org/pdf/2602.20021) 
+   Lead Author: Natalie Shapira  
+   Red-teaming study on AI agents. 
+   My contribution: 
+   - **CS2 (Non-Owner Compliance):** Probed whether agents follow instructions from non-owners — showed agents complied with exposing emails and its contents of all agent interactions.
+   - **CS3 (Disclosure of Sensitive Information):** Showed Jarvis’s PII refusal could be bypassed by reframing “share” as “forward,” exposing SSNs, bank data, and medical records via a trivially different request; one of the paper’s clearest vulnerability findings.
+   - **CS14 (Data Tampering Refused):** Tested whether Jarvis could be pressured to modify source data to cover up the PII exposure; it held firm — a documented safety success, with the agent maintaining its API boundary under persistent social pressure.
+
 ## Featured Projects
 
 ### [MedScan AI - Disease Prediction & Medical RAG](https://github.com/MedScan-AI/MedScan_ai) *
@@ -78,6 +88,9 @@ Developed post-hoc answer attribution models for long-document comprehension, le
 
 ### [Language Model Interpretability](https://github.com/rjaditya-2702/CS6120-NLP)
 Fine-tuned GPT-2 on emotion classification, analyzing attention mechanisms through head masking and token replacement. Developed visualization methods for transformer attention patterns.
+
+### [Coding Foundation Models](https://github.com/rjaditya-2702/lets_DL/tree/main)
+Hands-on implementations and experiments with coding foundation models—building and training models for code understanding and generation. Currently implemented VAEs. Coding Diffusion Models for the next push.
 
 ### [RL Tic-Tac-Toe](https://github.com/30-andrea/RL_Tic-Tac-Toe)
 Implemented Q-Learning with multi-agent training in custom gymnasium environment, optimizing state representation as ternary sequences for efficient training.
