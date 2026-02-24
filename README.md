@@ -70,9 +70,9 @@ Currently, I'm working with **Dr. Agata Lapedriza Garcia** (Advisor), **Dr. Nata
 
 ## Publications
 
-1. [**Agents of Chaos**](https://arxiv.org/pdf/2602.20021) 
-   Lead Author: Natalie Shapira  
-   Red-teaming study on AI agents. 
+1. [**Agents of Chaos**](https://arxiv.org/pdf/2602.20021) (Red-teaming study on AI agents)
+
+   - Lead Author: Natalie Shapira   
    My contribution: 
    - **CS2 (Non-Owner Compliance):** Probed whether agents follow instructions from non-owners — showed agents complied with exposing emails and its contents of all agent interactions.
    - **CS3 (Disclosure of Sensitive Information):** Showed Jarvis’s PII refusal could be bypassed by reframing “share” as “forward,” exposing SSNs, bank data, and medical records via a trivially different request; one of the paper’s clearest vulnerability findings.
